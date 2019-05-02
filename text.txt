@@ -1,2 +1,4 @@
 this is a new text file
-i havent git add yet at this moment
+
+whoa, i can add lines?
+what about deleting??
